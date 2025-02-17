@@ -1,0 +1,11 @@
+# Archivos de OS.
+.DS_Store
+
+# Ignorar todos los archivos .csv
+*.csv
+
+# Ignorar todos los archivos .pdf
+*.pdf
+
+# Ignorar todos los archivos .log
+*.log
