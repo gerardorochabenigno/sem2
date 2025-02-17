@@ -8,6 +8,7 @@ Se propone que se utilice información de [Predict Future Sales](https://www.kag
 
 La estructura del repo es la siguiente
 
+```
 Semestre2/
 │── notebooks/         # Notebooks del POC
 │   ├── tarea2.ipynb
@@ -28,3 +29,4 @@ Semestre2/
 │── requirements.txt   # Librerías a utilizar (basado en el yaml de de la clase -arquitectura-)
 │── .gitignore         # Archivos que estaré trabajando pero que no quiero que sean públicos y datos (si bien los datos de entrenamiento son públicos, seguimos las mejores prácticas). 
 │── .pylintrc          # Configuración de Pylint
+```
